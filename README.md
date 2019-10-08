@@ -12,3 +12,4 @@ code        게임에 사용된 코드가 저장된 폴더입니다.
 ## 팀원 및 역할
 - [한승탁](https://github.com/vutyful) : 게임 개요 및 기획, 프로그램 개발 총괄
 - [한이슬](https://github.com/LSHgy) : 게임 스토리 기획
+- [김수진](https://github.com/SJ0826) : 메인화면 디자인
